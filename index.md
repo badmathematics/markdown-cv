@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Urminsky
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David Urminsky
+Mathematician, Teacher 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="david.urminsky@gmail.com">david.urminsky@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
